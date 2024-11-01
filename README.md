@@ -1,2 +1,3 @@
-# Æ-therOS
-æ:ther OS is kernel from scratch
+# Æ-ther
+
+æ:ther is a kernel in a docker container
